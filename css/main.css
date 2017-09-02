@@ -1,0 +1,30 @@
+#logo {
+	position:fixed;
+	left:0;
+	top:0;
+	width:10%;
+	height:auto;
+}
+
+#top {
+	text-align:right; 
+	text-transform:uppercase; 
+	margin:10px;
+}
+
+#sub-top {
+	text-align:right; 
+	text-transform:uppercase; 
+	padding:10px;
+}
+
+.img-responsive {
+	display:block; 
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+#mid {
+	color:
+	grey;
+}
